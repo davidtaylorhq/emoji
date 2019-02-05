@@ -1,1 +1,13 @@
+emoji_prefix:
+  default: ""
+  description:
+    en: "The prefix for your custom emoji."
+width:
+  default: ""
+  description:
+    en: "Width for your custom emoji."
+height:
+  default: ""
+  description:
+    en: "Height for your custom emoji."
 
